@@ -1,1 +1,1 @@
-arquivo editado localmente
+arquivo editado pelo navegador
