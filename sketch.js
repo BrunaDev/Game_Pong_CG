@@ -110,7 +110,7 @@ function resetarBolinha(){
   if(xBolinha>=(largura-rBolinha)){
     xBolinha = 300;
     yBolinha = 200;
-    pontosEsquerda = pontosEsquerda  = 1;
+    pontosEsquerda = pontosEsquerda  + 1;
   }
   if(xBolinha<=rBolinha){
     xBolinha = 300;
