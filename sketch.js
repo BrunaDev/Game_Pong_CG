@@ -1,6 +1,4 @@
-//var nivelDificuldade = Number(window.prompt("Qual a dificuldade do gosto você gostaria de jogar? Responda de 1 a 9."));
-
-var nivelDificuldade = 3;
+var nivelDificuldade = Number(window.prompt("Qual a dificuldade do gosto você gostaria de jogar? Responda de 1 a 9."));
 
 var largura = 600;
 var altura = 400;
